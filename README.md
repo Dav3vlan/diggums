@@ -2,7 +2,7 @@
 Going through an ARGOCD tutorial.  
 
 
-#### Commands
+# Commands
 
 ```bash
 # install ArgoCD in k8s
@@ -21,7 +21,7 @@ kubectl -n argocd get secret argocd-initial-admin-secret -o jsonpath="{.data.pas
 ```
 </br>
 
-#### Links
+# Links
 
 * Config repo: [https://gitlab.com/nanuchi/argocd-app-config](https://gitlab.com/nanuchi/argocd-app-config)
 
