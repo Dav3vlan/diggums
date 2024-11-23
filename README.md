@@ -4,8 +4,6 @@ Going through an ARGOCD tutorial.
 
 # Commands
 
-
-
 ```bash
 # install ArgoCD in k8s
 kubectl create namespace argocd
